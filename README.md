@@ -1,2 +1,6 @@
 # Prework-Assement
-Light and Sound game.
+Tahron's Memory Course.
+If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. Used youtube a little to help me with my Repository part.
+What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? A challenge that came to me was learning how to complete my repository section. In the video that was listed in our prework instructions the man had a different type of computer than me. I have a HP labtop so my setup is kind of different, so it was hard following along, I got confused on the ways he completed his repository section. Also i had a little trouble transferring over documents into this file. I overcame it by doing the best I can and giving as much effort as possible.  
+What questions about web development do you have after completing your submission? To be honest i dont have any questions but i am ready to learn more about the programs that make the top websites work and how they are setup. Ex. google, youtube, etc  
+If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. I would definitely try to get my program to play more patterns. I tried figuring out where the error was at or what i need to do to fix it but i didnt suceed sadly. 
